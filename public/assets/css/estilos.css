@@ -1,0 +1,50 @@
+.bd {
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid rgb(97, 8, 156);
+    width: 99%;
+    height: 99%;
+}
+.nav {
+    background-color: rgb(118, 14, 179);
+    padding: 10px;
+    font-family: "Times New Roman";
+}
+
+.nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+h1 {
+    color: #9805a5;
+    padding: 10px;
+    font-family: "Times New Roman";
+}
+p {
+    color: #5c0b7c;
+    font-family: "Times New Roman";
+}
+.tbl {
+    margin: 0px;
+    padding: 2px;
+    border: 5px solid rgb(107, 4, 133);
+    width: 99%;
+    height: 99%;
+}
+tr, td, th{
+    margin: 0px;
+    padding: 2px;
+    border: solid 1px rgb(71, 69, 189);
+}
+
+.divImg {
+    display:flex;
+    justify-content: center;
+    
+}
+
